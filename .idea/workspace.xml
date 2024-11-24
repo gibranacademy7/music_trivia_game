@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9766ed2f-a60b-4913-937f-8275507c991f" name="Changes" comment="initial">
+    <list default="true" id="9766ed2f-a60b-4913-937f-8275507c991f" name="Changes" comment="initial chart">
+      <change afterPath="$PROJECT_DIR$/Tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trivia_game_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/trivia_game_music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trivia_game_pie_chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/trivia_game_pie_chart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trivia_game_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/trivia_game_statistics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,17 +47,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.trivia_game_music.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trivia_game_music.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="music_trivia_game" />
@@ -129,12 +132,30 @@
       <option name="project" value="LOCAL‎" />
       <updated>1731517030746</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎-00005" summary="initial stat.">
+      <option name="closed" value="true" />
+      <created>1731518404190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1731518404190</updated>
+    </task>
+    <task id="LOCAL‎-00006" summary="initial chart">
+      <option name="closed" value="true" />
+      <created>1731518723679</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1731518723679</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="initial stat." />
+    <MESSAGE value="initial chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial chart" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
